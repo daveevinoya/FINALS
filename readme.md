@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/daveevinoya/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="Nyebe" width="130" height="100">
+    <img src="https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/301193633_465998728871091_256315140181839029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFcigvp8n0c0vpNGBpUB4hj60LEVMDz_7XrQsRUwPP_tc2PkokQbfW1sHczlMNkXh_Ek6-ytU3OZ7LrkXjNJGcG&_nc_ohc=Ki3TDiJy3ycQ7kNvgEpuQnl&_nc_ht=scontent.fmnl17-6.fna&oh=00_AYB0OwXO8M2qkxlrBAVsliV-6WYtgbBIOUi3-a-lDsA4ig&oe=66AA3837" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project</h3>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://github.com/daveevinoya/FINALS)
+![]((https://visit-counter.vercel.app/counter.png?page=daveevinoya/FINALS)
 
 ---
 
